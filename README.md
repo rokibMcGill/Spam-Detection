@@ -1,1 +1,1 @@
-# Spma-Detection
+# Spam-Detection
